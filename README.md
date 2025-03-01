@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+👋 Hi, I’m Emmanuel (Gbenga) Omosebi
+	•	🔹 Tech Enthusiast | Django Developer | Cloud & Cybersecurity Learner 
+	•	🔹 Passionate about building scalable systems and automating workflows
+	•	🔹 Exploring Cloud, DevOps, and AI integrations
+
+
 <!--
 **Gbenga-EO/Gbenga-EO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
