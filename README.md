@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 👋 Hi, I’m Emmanuel (Gbenga) Omosebi
-	•	🔹 Tech Enthusiast | Django Developer | Cloud & Cybersecurity Learner 
-	•	🔹 Passionate about building scalable systems and automating workflows
-	•	🔹 Exploring Cloud, DevOps, and AI integrations
+
+	🔹 Tech Enthusiast | Django Developer | Cloud & Cybersecurity Learner 
+	🔹 Passionate about building scalable systems and automating workflows
+	🔹 Exploring Cloud, DevOps, and AI integrations
 
 
 <!--
