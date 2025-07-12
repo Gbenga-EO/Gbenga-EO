@@ -8,7 +8,7 @@ I’m an Electrical & Electronics Engineering graduate with a passion for cloud 
 Building real-world systems using Django technologies.
 
 🛠️ Tech Stack & Tools:
-Python · Django · AWS · Git · Redis · PostgreSQL · HTML5 · Bootstrap
+Python · Django · AWS 
 <!--
 **Gbenga-EO/Gbenga-EO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
